@@ -1,8 +1,0 @@
-{
-  "name": "vanguard-multiplayer-server",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Dependency-free WebSocket room server for the VANGUARD browser FPS prototype",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" }
-}
